@@ -37,21 +37,3 @@ Run it on Windows PowerShell:
 ## Language
 
 - C
-
-## Project 2: ATM Simulator in C
-
-A menu-driven ATM simulation built using C.
-
-### Features
-
-- Check account balance
-- Deposit money
-- Withdraw money
-- Check insufficient balance
-- Exit the program
-
-### Technologies Used
-
-- C Programming
-- GCC Compiler
-- Visual Studio Code
